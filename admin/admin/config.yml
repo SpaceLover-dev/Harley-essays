@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: SpaceLover-dev/Haley-essays
+  repo: fridalopez123/friend-essays
 
 media_folder: "images"
 public_folder: "/images"
@@ -13,4 +13,4 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Content", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown" }
