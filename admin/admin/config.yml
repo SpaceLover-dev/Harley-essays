@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: fridalopez123/friend-essays
+  repo: YOUR-GITHUB-USERNAME/YOUR-REPO
 
 media_folder: "images"
 public_folder: "/images"
