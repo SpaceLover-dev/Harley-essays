@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/YOUR-REPO
+  repo: SpaceLover-dev/Harley-essays
 
 media_folder: "images"
 public_folder: "/images"
